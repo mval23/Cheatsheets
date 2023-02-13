@@ -13,6 +13,6 @@
 
 ### Emphasis
 
-*Italic*
+"*Italic*"
 **Bold**
 ***Bold and Italic***
