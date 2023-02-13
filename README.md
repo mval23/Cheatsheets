@@ -1,18 +1,46 @@
-# Cheatsheets
+# Basic Markdown Cheatsheet
 
-## Markdown
+## Headings
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
-### Headings
+## Emphasis
+*Italic*
+**Bold**
+***Bold and Italic***
 
-#H1 <br>
-##H2 <br>
-###H3 <br>
-####H4 <br>
-#####H5 <br>
-######H6 <br>
+## Lists
+### Unordered list
+- Item 1
+- Item 2
+- Item 3
 
-### Emphasis
+### Ordered list
+1. First item
+2. Second item
+3. Third item
 
-* Italic * <br>
-** Bold ** <br>
-*** Bold and Italic *** <br>
+## Links
+[Link text](URL)
+
+## Images
+![Alt text](image URL)
+
+## Code
+Inline code: `code`
+
+Code blocks:
+Inline code: code
+
+## Blockquotes
+> Quote
+
+## Horizontal Rule
+---
+
+This is just a basic overview of Markdown syntax. There are many more advanced features and variations that you can explore as you get more familiar with the language.
+
