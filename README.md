@@ -33,9 +33,6 @@
 ## Code
 Inline code: `code`
 
-Code blocks:
-Inline code: code
-
 ## Blockquotes
 > Quote
 
