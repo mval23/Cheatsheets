@@ -38,7 +38,3 @@ Inline code: `code`
 
 ## Horizontal Rule
 ---
-
-This is just a basic overview of Markdown syntax. There are many more advanced features and variations that you can explore as you get more familiar with the language.
-
-
