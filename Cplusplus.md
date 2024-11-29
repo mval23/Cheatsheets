@@ -1,5 +1,3 @@
-Sure, I'll add information about control structures like `for`, `while`, and `if`.
-
 ```markdown
 # C++ Cheatsheet for Competitive Programming
 
