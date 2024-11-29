@@ -282,5 +282,3 @@ bs.count();   // Count number of 1s
 bs.to_ulong(); // Convert to unsigned long
 ```
 ```
-
-This C++ cheatsheet now includes control structures and is formatted in Markdown. If you need more detailed explanations or additional topics, feel free to ask!
